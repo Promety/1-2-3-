@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>_2._1_Zadanie_YP</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Все задания 2 задания первая неделя\" />
+  </ItemGroup>
+
+</Project>
